@@ -1,7 +1,7 @@
 
 import './App.css';
 
-//import components
+//import components for the main page - these wont change page to page
 import Header from './Components/Header'
 import Footer from './Components/Footer'
 //import screens
