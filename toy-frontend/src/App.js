@@ -10,7 +10,7 @@ import ProductScreen from './Screens/ProductScreen'
 import AboutScreen from './Screens/AboutScreen'
 import ContactScreen from './Screens/ContactScreen'
 
-//import routing for page navigation
+//import routing for page navigation to avoid page reload
 import {
   BrowserRouter as Router,
   Route,
