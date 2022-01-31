@@ -7,6 +7,7 @@ namespace ToyAPI.Data
     public class ApplicationDbContext : DbContext
     {
         public DbSet<ProductModel> Products { get; set; }
+        public DbSet<LocationModel> Locations { get;set; }
         //constructor that allows us to use the database
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
