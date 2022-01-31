@@ -2,7 +2,7 @@ import React from 'react'
 import products from '../data/products'
 import {Row, Col, Container} from 'react-bootstrap'
 import Product from '../Components/Product'
-
+//
 function ProductScreen() {
     return (
         <div>
