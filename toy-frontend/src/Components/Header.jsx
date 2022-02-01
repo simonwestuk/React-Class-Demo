@@ -1,5 +1,5 @@
 import React from 'react'
-import {Navbar, Container, Nav,} from 'react-bootstrap'
+import {Navbar, Container, Nav, Dropdown} from 'react-bootstrap'
 import {Link} from 'react-router-dom'
 
 function Header() {
@@ -11,11 +11,23 @@ function Header() {
     <Nav className="me-auto">
       <Nav.Link as={Link} to="/">Home</Nav.Link>
       <Nav.Link as={Link} to="/products">Products</Nav.Link>
-
       <Nav.Link as={Link} to="/locations">Locations</Nav.Link>
-      
       <Nav.Link as={Link} to="/about">About Us</Nav.Link>
       <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
+
+
+      <Dropdown>
+        <Dropdown.Toggle className="mx-4" variant="success" id="dropdown-basic">
+          Admin Panel
+        </Dropdown.Toggle>
+
+        <Dropdown.Menu>
+          <Dropdown.Item as={Link} to="/admin/addproduct">Add Product</Dropdown.Item>
+        </Dropdown.Menu>
+      </Dropdown>
+
+
+
     </Nav>
     </Container>
   </Navbar>
