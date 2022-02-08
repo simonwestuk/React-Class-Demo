@@ -81,7 +81,7 @@ function AddProductScreen() {
             variant="primary"
             className="w-100"
             onClick={submitHandler}
-        >{posting ? <Loader/>:(<div>Add Product</div>)}</Button>
+        >  {posting ? <Loader/>:(<div>Add Product</div>)}   </Button>
 
     </Form>
 
