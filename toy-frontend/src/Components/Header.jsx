@@ -23,6 +23,7 @@ function Header() {
 
         <Dropdown.Menu>
           <Dropdown.Item as={Link} to="/admin/addproduct">Add Product</Dropdown.Item>
+          <Dropdown.Item as={Link} to="/admin/manageproducts">Manage Products</Dropdown.Item>
         </Dropdown.Menu>
       </Dropdown>
 
