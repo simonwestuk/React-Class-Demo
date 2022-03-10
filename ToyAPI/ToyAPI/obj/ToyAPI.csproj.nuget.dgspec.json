@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\Lesson 21 - User Auth\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {}
+    "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\LEsson 22 - USer AUth Cont\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\Lesson 21 - User Auth\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {
+    "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\LEsson 22 - USer AUth Cont\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\Lesson 21 - User Auth\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
+        "projectUniqueName": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\LEsson 22 - USer AUth Cont\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
         "projectName": "ToyAPI",
-        "projectPath": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\Lesson 21 - User Auth\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
+        "projectPath": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\LEsson 22 - USer AUth Cont\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
         "packagesPath": "C:\\Users\\shaunj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\Lesson 21 - User Auth\\React-Class-Demo\\ToyAPI\\ToyAPI\\obj\\",
+        "outputPath": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\LEsson 22 - USer AUth Cont\\React-Class-Demo\\ToyAPI\\ToyAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shaunj\\AppData\\Roaming\\NuGet\\NuGet.Config",

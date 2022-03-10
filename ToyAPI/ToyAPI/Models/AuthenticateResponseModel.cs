@@ -8,13 +8,17 @@
         public string Email { get; set; }
         public string Token { get; set; }
 
+        public string Role { get; set; }
+
         public AuthenticateResponseModel(UserModel user, string token)
         {
             Id = user.Id;
             FirstName = user.FirstName;
             LastName = user.LastName;
-            Email = user.Email;
+            Email = user.UserName;
             Token = token;
+            Role = user.Role;
+           
         }
     }
 }

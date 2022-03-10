@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cNzMbVJlZCvuQc5Nca9YprNTJlWIKb6BEo1gwLgFRcwXhn7PUgxeyKxjSYIhreGud4h67eBb80+lvYEiSCxhmw==",
+  "dgSpecHash": "fMfjHoRMsG4S1eNzl3qu3SN2Z/4cWBF9ihIUSAgXf2cxBX3LXto/yvzMZNhO849BjWsrh/968T6T3OiDe1hI9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\Lesson 21 - User Auth\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
+  "projectFilePath": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\LEsson 22 - USer AUth Cont\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shaunj\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\shaunj\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
