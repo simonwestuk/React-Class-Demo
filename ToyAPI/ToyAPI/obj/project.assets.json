@@ -10241,19 +10241,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shaunj\\.nuget\\packages\\": {}
+    "C:\\Users\\wests\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\LEsson 22 - USer AUth Cont\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
+      "projectUniqueName": "C:\\Users\\wests\\React\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
       "projectName": "ToyAPI",
-      "projectPath": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\LEsson 22 - USer AUth Cont\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
-      "packagesPath": "C:\\Users\\shaunj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\LEsson 22 - USer AUth Cont\\React-Class-Demo\\ToyAPI\\ToyAPI\\obj\\",
+      "projectPath": "C:\\Users\\wests\\React\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
+      "packagesPath": "C:\\Users\\wests\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wests\\React\\React-Class-Demo\\ToyAPI\\ToyAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shaunj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wests\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

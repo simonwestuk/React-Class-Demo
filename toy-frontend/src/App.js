@@ -14,6 +14,7 @@ import AddProductScreen from './Screens/AddProductScreen';
 import SingleProductScreen from './Screens/SingleProductScreen';
 import ManageProductsScreen from './Screens/ManageProductsScreen';
 import EditProductScreen from './Screens/EditProductScreen';
+import RegisterScreen from './Screens/RegisterScreen';
 
 //import routing for page navigation
 import {
@@ -37,13 +38,13 @@ function App() {
             <Route exact path ="/locations" element={<LocationsScreen/>}/>
             <Route exact path ="/about" element={<AboutScreen/>}/>
             <Route exact path ="/contact" element={<ContactScreen/>}/>
-
+            <Route exact path ="/register" element={<RegisterScreen/>}/>
 
             <Route exact path = "/admin/addproduct" element={<AddProductScreen/>}/>
             <Route exact path = "/admin/manageproducts" element={<ManageProductsScreen/>}/>
             <Route exact path = "/admin/product/edit/:id" element={<EditProductScreen/>}/>
           </Routes>
-        <Footer />
+     
       </Router>
    </div>
   );
