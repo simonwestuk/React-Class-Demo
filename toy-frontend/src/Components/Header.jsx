@@ -1,7 +1,7 @@
 import React from 'react'
 import {Navbar, Container, Nav, Dropdown} from 'react-bootstrap'
 import {Link} from 'react-router-dom'
-
+import Cart from './Cart'
 function Header() {
     return (
         <div>
@@ -29,7 +29,7 @@ function Header() {
       </Dropdown>
 
 
-
+      <Cart />
     </Nav>
     </Container>
   </Navbar>
